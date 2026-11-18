@@ -1,1 +1,30 @@
-Google Cloud Labs
+GCE service
+
+APP requirment lo Vm deploys in google cloud means GCE 
+
+This service comes under IAAS - Infrastracture as service offering 
+
+Linux or Windows VM create
+
+open console - click/select project - GCE service Search
+
+Click VM instances
+
+Now ENable Compute Engine API
+
+Now create an instance
+
+Edit Machine Configuration
+
+Name - First_VM
+
+Region - (Always ask which region our application should be deploys)
+zone- our Wish
+
+Secondary Region for Disatar Recovery (DR) 
+
+Choose Machine Types
+need low CPU's and 17Gb RAM
+so i'll choose E2 Standard
+
+then Check the Disk storage and go for Billing check
