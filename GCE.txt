@@ -28,3 +28,4 @@ need low CPU's and 17Gb RAM
 so i'll choose E2 Standard
 
 then Check the Disk storage and go for Billing check
+

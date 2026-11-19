@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
+
+# Google Cloud credentials
+*.json
+application_default_credentials.json
+
+# Environment secrets
+.env
+.env.*
+!.env.example
